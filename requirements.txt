@@ -1,0 +1,4 @@
+aiohttp
+requests
+fpl        
+prettytable
